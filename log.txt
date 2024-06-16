@@ -1,0 +1,3 @@
+Error: Page not found - Code 404
+Error: Database Connection Failed - Code 503
+Warning: Disk Space Low
